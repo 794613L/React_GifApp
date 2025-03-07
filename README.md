@@ -5,7 +5,9 @@ GifExpertApp es una aplicación web creada con React y Vite que te permite busca
 🔹 Características:
 
 ✅ Búsqueda instantánea de GIFs animados.
+
 ✅ Interfaz ligera y rápida gracias a Vite.
+
 ✅ Diseño responsivo y atractivo.
 
 📦 Tecnologías utilizadas:
